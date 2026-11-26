@@ -1,0 +1,7 @@
+# Python/Textual + Playwright legacy client (kept side-by-side with the Rust app).
+# Install with: python -m venv venv && venv/bin/pip install -r requirements.txt
+# Browser binary: venv/bin/playwright install chromium
+textual==8.2.7
+rich==15.0.0
+qrcode==8.2
+playwright==1.60.0
